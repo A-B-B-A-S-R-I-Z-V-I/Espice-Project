@@ -1,0 +1,40 @@
+h1{
+  color:orange;
+  background-color:slategrey;
+  text-align:left;
+  text-decoration:underline;
+  font-size:60px;
+  font-family:arial;
+}
+h2{
+  color: lightpink;
+  background-color:lightcyan;
+  text-align:center;
+  font-size:20px;
+  font-family:italic;
+  line-height:30px;
+  letter-spacing:2px;
+  column-count:3;
+  column-gap:15px;
+}
+h3{
+  color:lightpink;
+  background-color:lightcyan;
+  text-align:center;
+  font-size:20px;
+  font-family:italic;
+  line-height:30px;
+  letter-spacing:2px;
+  column-count:3;
+  column-gap:15px;
+}
+ul{
+  border-width:4px;
+  border-style:solid;
+  border-color:lightgray;
+  
+}
+li{
+  list-style-type:square;
+  text-shadow:1px 1px lightblue;
+}
